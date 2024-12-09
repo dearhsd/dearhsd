@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dearhsd also Herschel Dhekne
-- 👀 I’m interested in cell biology and biochemistry research
-- 🌱 I’m currently learning R for data visualization and cell profiler (and python)
+- 👀 I’m interested in cell biology and biochemistry research; would love learning sequencing and image analyses
 - 💞️ I’m looking to collaborate on R and python for data analysis
 - 📫 How to reach me @heshridhe on twitter and dearhsd@gmail.com by email
 
